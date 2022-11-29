@@ -1,0 +1,26 @@
+[
+  {
+    "title": "123",
+    "price": "asd",
+    "thumbnail": "https://www.comafi.com.ar/Multimedios/imgs/3675_100.png?v=10",
+    "id": 1
+  },
+  {
+    "name": "imedina",
+    "price": "",
+    "thumbnail": "https://www.comafi.com.ar/Multimedios/imgs/3675_100.png?v=10",
+    "id": 2
+  },
+  {
+    "name": "",
+    "price": "",
+    "thumbnail": "",
+    "id": 3
+  },
+  {
+    "name": "imedina",
+    "price": "123",
+    "thumbnail": "https://www.animefenix.tv/favicon.ico",
+    "id": 4
+  }
+]
